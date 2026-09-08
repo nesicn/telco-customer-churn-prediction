@@ -68,7 +68,7 @@ Analysis of feature importance reveals critical operational insights:
 Clone the Repository:
 
 ```
-git clone [https://github.com/Nesicn/telco-customer-churn-prediction.git](https://github.com/Nesicn/telco-customer-churn-prediction.git)
+git clone [https://github.com/nesicn/telco-customer-churn-prediction.git](https://github.com/nesicn/telco-customer-churn-prediction.git)
 cd telco-customer-churn-prediction
 ```
 Install Dependencies:
