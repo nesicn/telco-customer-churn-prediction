@@ -68,7 +68,7 @@ Analysis of feature importance reveals critical operational insights:
 Clone the Repository:
 
 ```
-git clone [https://github.com/nesicn/telco-customer-churn-prediction.git](https://github.com/nesicn/telco-customer-churn-prediction.git)
+git clone https://github.com/nesicn/telco-customer-churn-prediction.git
 cd telco-customer-churn-prediction
 ```
 Install Dependencies:
@@ -77,5 +77,8 @@ Install Dependencies:
 pip install -r requirements.txt
 ```
 Run Notebook / Script:
+```
+code .
+```
 
 Open ```notebooks/telco_churn_analysis.ipynb``` in Visual Studio Code or Google Colab.
