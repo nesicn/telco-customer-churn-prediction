@@ -60,8 +60,6 @@ Analysis of feature importance reveals critical operational insights:
 │   └── README.md                  # Dataset reference and links
 ├── notebooks/
 │   └── telco_churn_analysis.ipynb # Colab notebook
-├── reports/
-│   └── figures/                   # Exported charts (ROC curve, feature importance)
 ├── .gitignore
 ├── README.md
 └── requirements.txt
