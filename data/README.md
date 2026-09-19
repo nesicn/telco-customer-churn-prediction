@@ -33,7 +33,7 @@ To fetch the raw dataset programmatically in Python:
 ```python
 import pandas as pd
 
-url = "[https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv)"
+url = r"https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
 df = pd.read_csv(url)
 
 ```
