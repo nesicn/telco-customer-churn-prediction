@@ -1,4 +1,3 @@
-```
 # IBM Telco Customer Churn Dataset
 
 ## Overview & Source
@@ -9,7 +8,6 @@ This folder documents the dataset used in the churn analysis. To maintain reposi
 * **Format:** CSV
 * **Size:** 7,043 records, 21 columns
 
-```
 ## Data Dictionary
 
 | Feature | Data Type | Description |
